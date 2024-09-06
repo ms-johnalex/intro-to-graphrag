@@ -1,6 +1,6 @@
 # Intro to GraphRAG using LangChain and Neo4j
 
-Welcome to my Intro to GraphRAG presentation repo! You'll find the demo files here.
+Welcome to my Intro to GraphRAG presentation repo! You'll find setup intructions, demo files, and resources for further learning.
 
 ## Setup
 
@@ -34,3 +34,12 @@ Welcome to my Intro to GraphRAG presentation repo! You'll find the demo files he
 * [Project GraphRAG Web Site](https://aka.ms/graphrag)
 * [GraphRAG Python implementation](https://microsoft.github.io/graphrag/)
 * [Microsoft GraphRAG Accelerator](https://github.com/Azure-Samples/graphrag-accelerator)
+* [LlamaIndex and Neo4j](https://neo4j.com/labs/genai-ecosystem/llamaindex/)
+
+## Learning Resources for other languages
+My talk is python specific so here are other Neo4j learning resources by language:
+
+* JS/TS - [LangChainJS and Neo4j](https://neo4j.com/labs/genai-ecosystem/langchain-js/)
+* C# - [Semantic Kernel and Neo4j](https://neo4j.com/labs/genai-ecosystem/semantic-kernel/)
+* Java - [Spring AI and Neo4j](https://neo4j.com/labs/genai-ecosystem/spring-ai/)
+* Java - [Langchain4j and Neo4j](https://neo4j.com/labs/genai-ecosystem/langchain4j/)
