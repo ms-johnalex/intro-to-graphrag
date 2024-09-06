@@ -6,12 +6,13 @@ Welcome to my Intro to GraphRAG presentation repo! You'll find the demo files he
 
 * Install either [Neo4j Desktop (local instance)](https://neo4j.com/download/) or [Aura (cloud instance)](https://neo4j.com/product/auradb/)
 * Install needed python libraries
-* Environment variables for NEO4J_URI (usually `bolt://localhost:7687` ), NEO4J_PASSWORD, NEO4J_USERNAME, and OPENAI_API_KEY should be set.
+* Environment variables for `NEO4J_URI` (usually `bolt://localhost:7687` ), `NEO4J_PASSWORD`, `NEO4J_USERNAME`, and `OPENAI_API_KEY` should be set.
 
   NOTE: The Neo4j URI, username, and password can be obtained from the Neo4j Desktop or Aura console. The OpenAI API key can be obtained from the OpenAI website.
 
 * Use the default Movies database for querying_the_knowledge_graph.ipynb
 * Create a new database for intro_graphrag_w_langchain_neo4j.ipynb
+* Install the `APOC` plugin.
 
 ## Recommended order of notebooks
 
