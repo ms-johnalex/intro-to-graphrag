@@ -1,0 +1,8 @@
+langchain 
+langchain-community 
+langchain-openai 
+langchain-experimental 
+neo4j 
+wikipedia 
+tiktoken 
+yfiles_jupyter_graphs
