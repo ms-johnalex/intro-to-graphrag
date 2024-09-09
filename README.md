@@ -17,7 +17,7 @@ Welcome to my Intro to GraphRAG presentation repo! You'll find setup intructions
 ## Slides and video
 
 * [Slides are here](https://github.com/ms-johnalex/intro-to-graphrag/blob/main/RAGHackSession-Intro-to-GraphRAG.pdf)
-* Video - coming soon
+* [Video is here](https://www.youtube.com/watch?v=f6pUqDeMiG0)
 
 ## Recommended order of notebooks
 
